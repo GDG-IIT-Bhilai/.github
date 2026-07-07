@@ -1,4 +1,5 @@
 <img width="2560" height="640" alt="GDG_Bevy_DefaultEventBanner_vDOiPGA" src="https://github.com/user-attachments/assets/6d278730-d207-4ca3-a444-402be9b8ecba" />
+
 # 🚀 Google Developer Groups (GDG) — IIT Bhilai
 
 Welcome to the official GitHub organization for GDG IIT Bhilai! We are a community of passionate student developers, designers, and tech enthusiasts building digital solutions for real-world problems.
