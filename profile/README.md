@@ -51,3 +51,4 @@ To keep our community transparent and strictly focused on technical growth, we a
 Stay updated with upcoming hackathons, session registrations, and campus announcements:
 * **Google Developer Groups IIT Bhilai official Whatsapp Group:** [[GDG IIT Bhilai Official Group](https://chat.whatsapp.com/EkqijlOzMFYEFMHNC0rmcY?mode=gi_t)]
 * **Core Repository Maintainer:** [@keyushtech](https://github.com/keyushtech)
+* **Google Developer Groups IIT Bhilai official Instagram:[[GDG IIT Bhilai Official Instagram](https://www.instagram.com/gdg_iitbhilai/)]
