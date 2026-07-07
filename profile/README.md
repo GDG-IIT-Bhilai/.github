@@ -18,7 +18,7 @@ Meet the team leading our initiatives, organizing workshops, and driving develop
 * **GDG Ex-Lead and Mentors:** Saurav Gupta and Nidhi
 * **Core Members:**
   * Keyush Sai
-  * Akshat Kansal[cite: 1]
+  * Akshat Kansal
   * Jayanshi
   * Saanvi Kamble
   * Jaswanth Kumar Kamireddy
