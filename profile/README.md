@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub organization for GDG IIT Bhilai! We are a community of passionate student developers, designers, and tech enthusiasts building digital solutions for real-world problems.
 
+* 📚 **[Official Developer Ecosystems & Learning Directory](https://github.com/GDG-IIT-Bhilai/resources):** A comprehensive master list of all official Google tools, cloud engines, and training platforms for quick reference.
+  
 ---
 
 ## 🌟 About Our Club
