@@ -30,6 +30,7 @@ Meet the team leading our initiatives, organizing workshops, and driving develop
 
 ## 🎓 Google Student Ambassador Programme
 We actively host monthly learning tracks and immersive tech challenges under the global Ambassador banner to showcase the power of next-generation developer tools.
+
 **GSA Representatives:** Keyush Sai & Akshat Kansal
 
 
