@@ -50,6 +50,6 @@ To keep our community transparent and strictly focused on technical growth, we a
 ## 🛠️ Connect with Us
 Stay updated with upcoming hackathons, session registrations, and campus announcements:
 
-* <img src="https://simpleicons.org/icons/whatsapp.svg" width="16" height="16" style="vertical-align: middle;"/> **WhatsApp Group:** [GDG IIT Bhilai Official Group](https://chat.whatsapp.com/EkqijlOzMFYEFMHNC0rmcY?mode=gi_t)
-* <img src="https://simpleicons.org/icons/instagram.svg" width="16" height="16" style="vertical-align: middle;"/> **Instagram:** [@gdg_iitbhilai](https://www.instagram.com/gdg_iitbhilai/)
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EkqijlOzMFYEFMHNC0rmcY?mode=gi_t) **Official Group Chat**
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gdg_iitbhilai/) **@gdg_iitbhilai**
 * 💻 **Core Repository Maintainer:** [@keyushtech](https://github.com/keyushtech)
