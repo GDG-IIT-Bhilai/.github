@@ -15,17 +15,17 @@ GDG IIT Bhilai serves as a bridge between university theory and real-world imple
 Meet the team leading our initiatives, organizing workshops, and driving developer culture on campus:
 
 * **GDG Lead:** Swarit Dixit
-* **GDG Ex-Lead and Mentors:** Saurav Gupta and Nidhi
+* **GDG Ex-Lead and Mentors:** Saurav Gupta and Nidhi Singh
 * **Core Members:**
   * Keyush Sai
   * Akshat Kansal
-  * Jayanshi
+  * Jayanshi Agarwaal
   * Saanvi Kamble
   * Jaswanth Kumar Kamireddy
   * Rajnish
-  * Umesh
-  * Shubham
-  * Arpita
+  * Umesh Viswakarma
+  * Shubham Asare
+  * Arpita Gupta
 ---
 
 ## 🎓 Google Student Ambassador Programme
