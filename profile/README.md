@@ -1,4 +1,4 @@
-[<img width="2560" height="640" alt="GDG_Bevy_DefaultEventBanner_vDOiPGA" src="https://github.com/user-attachments/assets/6d278730-d207-4ca3-a444-402be9b8ecba" />
+<img width="2560" height="640" alt="GDG_Bevy_DefaultEventBanner_vDOiPGA" src="https://github.com/user-attachments/assets/6d278730-d207-4ca3-a444-402be9b8ecba" />
 
 # 🚀 Google Developer Groups (GDG) — IIT Bhilai
 
@@ -21,8 +21,8 @@ Meet the team leading our initiatives, organizing workshops, and driving develop
 * **GDG Lead:** Swarit Dixit
 * **GDG Ex-Lead and Mentors:** Saurav Gupta and Nidhi
 * **Core Members:**
-  * Keyush Sai
-  * Akshat Kansal
+  * **Keyush Sai:** [LinkedIn](https://www.linkedin.com/in/keyush-sai/) | [Instagram](https://www.instagram.com/keyush_sai/)
+  * **Akshat Kansal:** [Instagram](https://www.instagram.com/akshat.757/)
   * **Jayanshi Agarwal:** [LinkedIn](https://www.linkedin.com/in/jayanshi-agarwal-535113379) | [Instagram](https://www.instagram.com/differently_jiya)
   * **Saanvi Kamble:** [LinkedIn](https://www.linkedin.com/in/saanvi-kamble-119628322) | [Instagram](https://www.instagram.com/kamblesaanvi_)
   * **Jaswanth Kumar Kamireddi:** [LinkedIn](https://www.linkedin.com/in/jaswanth-kumar-kamireddi-86ba09373/) | [Instagram](https://www.instagram.com/kjk._.06/)
@@ -53,4 +53,3 @@ Stay updated with upcoming hackathons, session registrations, and campus announc
 * [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EkqijlOzMFYEFMHNC0rmcY?mode=gi_t) **Official Group Chat**
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gdg_iitbhilai/) **@gdg_iitbhilai**
 * 💻 **Core Repository Maintainer:** [@keyushtech](https://github.com/keyushtech)
-](https://www.linkedin.com/in/keyush-sai/)
