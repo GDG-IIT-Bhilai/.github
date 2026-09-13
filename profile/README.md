@@ -23,20 +23,20 @@ Meet the team leading our initiatives, organizing workshops, and driving develop
 * **Core Members:**
   * Keyush Sai
   * Akshat Kansal
-  * Jayanshi
-  * Saanvi Kamble
-  * Jaswanth Kumar Kamireddy
-  * Rajnish
-  * Umesh
-  * Shubham
-  * Arpita
+  * **Jayanshi Agarwal:** [LinkedIn](https://www.linkedin.com/in/jayanshi-agarwal-535113379) | [Instagram](https://www.instagram.com/differently_jiya)
+  * **Saanvi Kamble:** [LinkedIn](https://www.linkedin.com/in/saanvi-kamble-119628322) | [Instagram](https://www.instagram.com/kamblesaanvi_)
+  * **Jaswanth Kumar Kamireddi:** [LinkedIn](https://www.linkedin.com/in/jaswanth-kumar-kamireddi-86ba09373/) | [Instagram](https://www.instagram.com/kjk._.06/)
+  * **Rajnish Saini:** [LinkedIn](https://www.linkedin.com/in/rajnish-saini) | [Instagram](https://www.instagram.com/rajnish.dx/)
+  * **Umesh Vishwakarma:** [LinkedIn](https://www.linkedin.com/in/umesh-vishwakarma)
+  * **Shubham Asare:** [LinkedIn](https://www.linkedin.com/in/shubham-asare-721839376) | [Instagram](https://www.instagram.com/shu24075/)
+  * **Arpita Gupta:** [LinkedIn](https://www.linkedin.com/in/arpita-gupta-266725388/) | [Instagram](https://www.instagram.com/arpitagupta020/)
+
 ---
 
 ## 🎓 Google Student Ambassador Programme
 We actively host monthly learning tracks and immersive tech challenges under the global Ambassador banner to showcase the power of next-generation developer tools.
 
 **GSA Representatives:** Keyush Sai & Akshat Kansal
-
 
 ---
 
